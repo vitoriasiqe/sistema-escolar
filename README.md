@@ -38,24 +38,24 @@ Utilizando a navegação em gaveta, o app exibe 5 abas laterais (Home, Eventos, 
 - **react-native-gesture-handler**:Biblioteca essencial para lidar com gestos em aplicativos React Native
 
 
-## Requisitos
+# Requisitos
 
 - Node.js
 - Expo CLI instalado globalmente. Caso não tenha, instale com o comando: npm install -g expo-cli
 
-## Instalação
-# Clone o Repositório:
+# Instalação
+## Clone o Repositório:
 - No terminal, clone o repositório com o comando: git clone https://github.com/vitoriasiqe/sistema-escolar.git
 
-## Instale as Dependências:
-# Acesse a pasta do projeto: 
+# Instale as Dependências:
+## Acesse a pasta do projeto: 
 - cd nome-do-projeto
 - npm install
   
-## Inicie o Servidor Expo:
-# No terminal, execute o comando para rodar o aplicativo:
+# Inicie o Servidor Expo:
+## No terminal, execute o comando para rodar o aplicativo:
 - expo start
-Isso abrirá o Expo DevTools no seu navegador.
+- Isso abrirá o Expo DevTools no seu navegador.
 
 # Baixe o Expo Go:
 
