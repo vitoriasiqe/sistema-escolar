@@ -1,6 +1,6 @@
 ## Sistema-escolar 
 
-#Sobre
+## Sobre
 
 Sistema-escolar é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). Ele foi feito para que o usuário possa gerenciar e organizar algumas áreas de sua vida escolar.
 
