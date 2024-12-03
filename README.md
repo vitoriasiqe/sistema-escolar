@@ -36,8 +36,32 @@ Utilizando a navegação em gaveta, o app exibe 5 abas laterais (Home, Eventos, 
 - **@expo/vector-icons**: Biblioteca de ícones para estilização.
 - **react-native-calendars**: Biblioteca popular para adicionar componentes de calendário aos aplicativos React Native.
 - **react-native-gesture-handler**:Biblioteca essencial para lidar com gestos em aplicativos React Native
- 
 
 
-## Antes de tudo...
+## Requisitos
+
+- Node.js
+- Expo CLI instalado globalmente. Caso não tenha, instale com o comando: npm install -g expo-cli
+
+## Instalação
+# Clone o Repositório:
+- No terminal, clone o repositório com o comando: git clone https://github.com/vitoriasiqe/sistema-escolar.git
+
+## Instale as Dependências:
+# Acesse a pasta do projeto: 
+- cd nome-do-projeto
+- npm install
+  
+## Inicie o Servidor Expo:
+# No terminal, execute o comando para rodar o aplicativo:
+- expo start
+Isso abrirá o Expo DevTools no seu navegador.
+
+# Baixe o Expo Go:
+
+- Baixe o aplicativo Expo Go na App Store (iOS) ou Google Play (Android).
+
+# Abra o Aplicativo no Expo Go:
+
+- Use o aplicativo Expo Go para escanear o QR code gerado no terminal ou no Expo DevTools para visualizar o aplicativo em seu dispositivo.
 
